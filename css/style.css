@@ -55,7 +55,7 @@ img {
   line-height: 30px;
   word-spacing: 3px;
 }
-.norm {
+#norm {
   color: white;
   font-size: 22px;
   text-transform: uppercase;
@@ -64,7 +64,7 @@ img {
   font-weight: 500;
   text-shadow: 3px 2px 4px black;
 }
-.norm2 {
+#norm2 {
   color: white;
   font-size: 20px;
   text-transform: uppercase;
