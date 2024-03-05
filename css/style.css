@@ -64,6 +64,15 @@ img {
   font-weight: 500;
   text-shadow: 3px 2px 4px black;
 }
+.norm2 {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+  font-weight: 500;
+  text-shadow: 3px 2px 4px black;
+}
 .vinc p a {
   color: white;
   text-shadow: 3px 2px 4px #ff000094;
