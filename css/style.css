@@ -16,10 +16,10 @@ body {
   box-shadow: 0px 0px 20px 0px rgba(235, 0, 0, 50%);
   width: 50%;
   margin: 40px auto;
-  padding: 30px;
+  padding: 10px 30px;
   text-align: center;
 }
-#leo {
+.block_one h2 {
   color: #fff;
   font-family: "Marhey", sans-serif;
   text-shadow: 2px 2px 4px #ff000085;
@@ -27,7 +27,7 @@ body {
   text-decoration-color: rgb(253 67 67 / 50%);
   font-weight: 500;
 }
-#son {
+.blok_two h2{
   color: #d30000;
   font-family: "Roboto", sans-serif;
   text-shadow: 2px 2px 4px #ffffff85;
@@ -36,10 +36,10 @@ body {
   word-spacing: 3px;
   letter-spacing: 3px;
 }
-#one {
+.block_one img {
   width: 40%;
 }
-#two {
+.blok_two img {
   width: 70%;
   margin-top: 40px;
 }
