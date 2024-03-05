@@ -19,7 +19,7 @@ body {
   padding: 30px;
   text-align: center;
 }
-.vinc h2 {
+#leo {
   color: #fff;
   font-family: "Marhey", sans-serif;
   text-shadow: 2px 2px 4px #ff000085;
@@ -27,12 +27,21 @@ body {
   text-decoration-color: rgb(253 67 67 / 50%);
   font-weight: 500;
 }
+#son {
+  color: #d30000;
+  font-family: "Roboto", sans-serif;
+  text-shadow: 2px 2px 4px #ffffff85;
+  font-weight: 500;
+  text-transform: uppercase;
+  word-spacing: 3px;
+  letter-spacing: 3px;
+}
 #one {
   width: 40%;
 }
 #two {
   width: 70%;
-  margin: 40px 0 20px 0;
+  margin-top: 40px;
 }
 img {
   border: 3px dotted black;
@@ -46,7 +55,7 @@ img {
   line-height: 30px;
   word-spacing: 3px;
 }
-.vinc p span {
+.norm {
   color: white;
   font-size: 22px;
   text-transform: uppercase;
@@ -61,4 +70,8 @@ img {
   font-size: 20px;
   word-spacing: 3px;
   letter-spacing: 1px;
+}
+.del {
+    text-decoration: line-through;
+    color: #9b313196;
 }
